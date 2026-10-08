@@ -169,6 +169,8 @@ npm run preview
 
 personal-reading-list/ │ ├── src/ │ ├── App.jsx │ ├── App.css │ └── main.jsx │ ├── public/ │ ├── index.html ├── package.json ├── package-lock.json ├── vite.config.js └── README.md
 
+#live demo link  https://frontendsaveitreadit.netlify.app/
+
 
 ## Summary
 
